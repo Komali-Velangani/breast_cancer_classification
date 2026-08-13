@@ -1,4 +1,4 @@
-# Practical No. 2
+
 ## Constructing a Deep Neural Network for Binary Classification Using TensorFlow
 
 ---
