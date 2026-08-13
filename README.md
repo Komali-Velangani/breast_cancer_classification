@@ -273,6 +273,6 @@ jupyter notebook practical2.ipynb
 
 ### Author
 
-**Name:** Dhruv Makadiya
-**Email:**  dhruvmakadiya800@gmail.com
+**Name:** Komali Velangani Rongali
+**Email:**  komalivelangani1011@gmail.com
 **Course:** B.Tech – Deep Learning Practical
