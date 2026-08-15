@@ -275,4 +275,4 @@ jupyter notebook practical2.ipynb
 
 **Name:** Komali Velangani Rongali
 **Email:**  komalivelangani1011@gmail.com
-**Course:** B.Tech – Deep Learning Practical
+**Course:** B.Tech AIML  (Deep Learning Practical)
